@@ -1,6 +1,6 @@
 # NDSApi
 
-[](https://img.shields.io/npm/v/ndsapi.svg)
+![](https://img.shields.io/npm/v/ndsapi.svg)
 
 ### Introduction
 
